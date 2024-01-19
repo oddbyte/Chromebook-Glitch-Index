@@ -5,7 +5,7 @@
 3. Profit.
 
 Notes:
- - For school I guess idk where else you'd need this.
+ - For if you want to disable extensions or stuff forced onto you by your school / work / admin, click the credit link.
 
 Credit: [Extension Inactivity](https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/Extension%20Inactivity)
 
