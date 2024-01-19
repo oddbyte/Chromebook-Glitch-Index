@@ -1,4 +1,4 @@
-# **Chromeos Facts and Glitches**
+# **Chromeos Glitch Index**
 ## #1: Remove a forced account
 1. Go to `chrome://settings/signOut`
 2. Press the `Turn off Sync` button
