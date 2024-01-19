@@ -1,5 +1,4 @@
 # **Chromeos Facts and Glitches**
-Btw, feel free to make a PR or a Issue if you find a bug
 ## #1: Get the normal (non-lacros) browser with #lacros-only enabled
 1. Enable `chrome://flags/#lacros-selection-ignore`, `chrome://flags/#lacros-availability-ignore`, `chrome://flags/#lacros-stability`, and `chrome://flags/#lacros-only` flags, then click the restart button.
 2. Enable `os://flags/#allow-devtools-in-system-ui` and restart again.
@@ -11,3 +10,7 @@ Btw, feel free to make a PR or a Issue if you find a bug
 - Its obviously not a intended feature, so using it is "rebellious" and "cool"
 - You get to stick it to the team of developers who made chrome OS :P
 - You get another browser.
+
+
+
+Btw, feel free to make a PR or a Issue if you find a fact and / or glitch that was not listed
