@@ -2,8 +2,9 @@
 ## #1: Remove a forced account
 1. Go to `chrome://settings/signOut`
 2. Press the `Turn off Sync` button
-3. Profit
-**Notes:**
+3. Profit.
+
+Notes:
  - For school I guess idk where else you'd need this.
 
 Credit: [Extension Inactivity](https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/Extension%20Inactivity)
