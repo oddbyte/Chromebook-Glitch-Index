@@ -14,7 +14,7 @@ Credit: [Extension Inactivity](https://github.com/S-PScripts/chromebook-utilitie
 2. Enable `os://flags/#allow-devtools-in-system-ui` and restart again.
 3. Open up settings.
 4. Press `Control + U`.
-5. Enjoy the browser you should'nt have :D
+5. Enjoy the browser you shouldn't have :D
 
 Credit: [Me](github.com/OddbyteWasTaken)
 
