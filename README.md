@@ -20,6 +20,6 @@ Credit: [Me](github.com/OddbyteWasTaken)
 
 ### Okay, cool. Why should I care about something like this?
 - You get to stick it to the team of developers who made chrome OS :P
-- You might be able to do stuff in school that your school blocked.
+- You might be able to do stuff in school / work that your admin blocked for whatever reason. This repo is not promoting using company / school resources for personal uses, but sometimes legit work/school-related things get caught in filters and you need to bypass them!
 
 Btw, feel free to make a PR or a Issue if you find a glitch that was not listed
